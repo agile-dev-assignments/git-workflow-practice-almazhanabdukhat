@@ -1,7 +1,7 @@
 # Git Practice
 
 ## Article
-I have selected article titled ***[We read the paper that forced Timnit Gebru out of Google. Here’s what it says.](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)*** written by **Karen Hao** at ***MIT Technology Review***.
+I have selected article titled ***[We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)*** written by **Karen Hao** at **MIT Technology Review**.
 <br>
 ## About
 This article discusses environmental and financial costs of natural language processing software models outlined in a paper by Timnit Gebru, a reknown AI ethics researcher and an ex co-lead of Google’s ethical AI team, who has a conflict with the company due to the arguments made in the paper.  
