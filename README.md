@@ -12,3 +12,4 @@ MIT Technology Review summarizes the content of the respective paper (not public
 - Language training models might be used to produce misleading information. 
 <br>
 I have limited knowledge on the original conflict, but this article might indeed provide an interesting perspective on the costs of AI software and even an incentive for future researchers to consider sustainability in developing large scale software.
+
