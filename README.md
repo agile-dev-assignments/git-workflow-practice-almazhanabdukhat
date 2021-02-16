@@ -1,2 +1,14 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Article
+The article that I have selected for the assignment is written by **Karen Hao** at ***MIT Technology Review*** and is titled [We read the paper that forced Timnit Gebru out of Google. Here’s what it says.](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/).
+<br>
+## About
+This article discusses potentially negative impact of natural language processing software models and discusses the case of Timnit Gebru, a reknown AI ethics researcher and an ex co-lead of Google’s ethical AI team, who was allegedly fired due to the conflict over a paper that Gebru coauthored and some arguments made in the paper. 
+<br>
+In this article, MIT Technology Review summarizes the content of the respective paper (not officially publicized). The paper is titled *"“On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"* and discusses environmental and financial costs of large language models—AI software trained on huge amounts of text data. Accrding to the article, some of the costs include: 
+- Training large AI software consumes a lot of computing power and electricity, which results in large amounts of carbon emissions. The paper argues that AI language software largely benefit wealthy organizations, while climate change hits marginalized communities hardest. 
+- Large language models aim at covering all the text data found on the internet, which might include discriminatory language and might fail to capture language and norms of countries with limited internet access.
+- Language training models might be used to produce misleading information. 
+<br>
+Although the whole situation regarding the case of Timnit Gebru might be quite controversial due to my limited knowledge, this article might indeed provide an interesting perspective on costs of AI software (maybe for future researchers).
