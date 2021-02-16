@@ -9,5 +9,5 @@ This article discusses environmental and financial costs of natural language pro
 MIT Technology Review summarizes the content of the respective paper (not publicized) and discusses the following costs of large language models—AI software trained on huge amounts of text data:  
 - Training large AI software consumes a lot of computing power and electricity, which results in large amounts of carbon emissions. The paper argues that AI language software models largely benefit wealthy organizations, while climate change hits marginalized communities hardest. 
 - Large language models aim at covering all the text data found on the internet, which might include discriminatory language and might fail to capture language and norms of countries with limited internet access.
-- Language training models might be used to produce misleading information. 
+- Language training models might be used to produce misleading information. <br>
 Although the case overall might seem pretty controversial (I have limited knowledge on the situation), this article might indeed provide an interesting perspective on the costs of AI software and even incentive for future researchers to consider sustainability in developing large scale software.
