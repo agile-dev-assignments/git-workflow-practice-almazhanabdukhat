@@ -11,4 +11,4 @@ MIT Technology Review summarizes the content of the respective paper (not public
 - Large language models aim at covering all the text data found on the internet, which might include discriminatory language and might fail to capture language and norms of countries with limited internet access.
 - Language training models might be used to produce misleading information. 
 <br>
-Although the case overall might seem pretty controversial (I have limited knowledge on the situation), this article might indeed provide an interesting perspective on the costs of AI software and even incentive for future researchers to consider sustainability in developing large scale software.
+Although the case overall might seem pretty controversial, this article might indeed provide an interesting perspective on the costs of AI software and even an incentive for future researchers to consider sustainability in developing large scale software.
