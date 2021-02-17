@@ -13,6 +13,5 @@ MIT Technology Review summarizes the content of the respective paper (not public
 <br>
 I have limited knowledge on the original conflict, but this article might indeed provide an interesting perspective on the costs of AI software and even an incentive for future researchers to consider sustainability in developing large scale software.
 <br>
-***
 <br>
 **Ashley Sidoryk**: It's interesting to see how technology such as large natural language processing software models, which are intended to help and make aspects of life easier, have such negative after effects on the environment. Technology is aimed to create better living and yet, it has adverse effects by not being sustainable itself. Not only is this type of technology marketed in a way for betterment for the whole of society, but in reality it has holes which in turn, excludes certain groups of people as the languages they are trained with are not representative. As Almazhan also says, I hope that this conflict gives incentive for the discussion and discovery of more sustainable technologies that will benefit more communities equally.
